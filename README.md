@@ -16,8 +16,6 @@
 
 <a href="https://wa.me/6281234567890" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/logo-whatsapp-picture-download-9.png" width="22px" alt="JayaMiko's WhatsApp" /></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=jayamiko.jayamiko)
-
 <br />
 
 My name is Jaya Miko and I am a Frontend Developer/Programmer. I'm from Indonesia, living in Jakarta-Bekasi and currently studying at PT. Dumbways Indonesia Technology.
