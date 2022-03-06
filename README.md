@@ -2,7 +2,7 @@
 
 # Hey, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div>
+<div witdth="100%" >
 <a href="https://www.instagram.com/mjaya10/">
   <img align="left" alt="JayaMiko's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -18,7 +18,7 @@
 </a>
 </div>
 
-<div>My name is Jaya Miko and I am a Frontend Developer/Programmer. I'm from Indonesia, living in Jakarta-Bekasi and currently studying at PT. Dumbways Indonesia Technology.</div>
+<p>My name is Jaya Miko and I am a Frontend Developer/Programmer. I'm from Indonesia, living in Jakarta-Bekasi and currently studying at PT. Dumbways Indonesia Technology.</p>
 
 <div><a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></div>
 
