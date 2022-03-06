@@ -6,8 +6,6 @@
   <img align="left" alt="JayaMiko's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://wa.me/6281234567890" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/logo-whatsapp-picture-download-9.png" width="22px" alt="JayaMiko's WhatsApp" /></a>
-
 <a href="https://twitter.com/Jayamiko_4">
 <img align="left" alt="Jaya Miko| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -15,6 +13,10 @@
 <a href="linkedin.com/in/jayamiko">
 <img align="left" alt="Jaya Miko's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<a href="https://wa.me/6281234567890" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/logo-whatsapp-picture-download-9.png" width="22px" alt="JayaMiko's WhatsApp" /></a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=jayamiko.jayamiko)
 
 <br />
 
