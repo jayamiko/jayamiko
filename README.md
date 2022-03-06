@@ -18,7 +18,7 @@
 
 My name is Jaya Miko and I am a Frontend Developer/Programmer. I'm from Indonesia, living in Jakarta-Bekasi and currently studying at PT. Dumbways Indonesia Technology.
 
-<div><a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="75px" ></a></div>
+<div><a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120px" ></a></div>
 
 ## 🔧 Technologies & Tools
 
@@ -44,48 +44,27 @@ My name is Jaya Miko and I am a Frontend Developer/Programmer. I'm from Indonesi
 
 <!-- TODO-IST:START -->
 
-🏆 Pass Fullstack Developer  
-✅ Completed tasks with deadlines  
-⏳ The shortest streak is 6 days
+🏆 Pass Fullstack Developer ✅ Completed tasks with deadlines ⏳ The shortest streak is 6 days
 
 <!-- TODO-IST:END -->
 
+<div flex="1" >
 <a href="https://github.com/jayamiko/jayamiko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamiko&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" width="300px"/>
 </a>
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jayamiko&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
-
 <a href="https://github.com/jayamiko/Dewe-Tour-Redux-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Dewe-Tour-Redux-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Dewe-Tour-Redux-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="210px"/>
 </a>
 
 <a href="https://github.com/jayamiko/Web-Music-Musiklopedia-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Web-Music-Musiklopedia-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Web-Music-Musiklopedia-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="210px" />
 </a>
+</div>
 
 <a href="https://github.com/jayamiko/jayamiko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayamiko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=058feb&bg_color=1d1f21" alt="Jaya Miko's GitHub Stats" />
 </a>
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: https://e7.pngegg.com/pngimages/340/745/png-clipart-computer-icons-white-instagram-icon-text-logo.png "Instagram icon with padding"
-[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png "Instagram icon without padding"
-[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
-
-<!-- links to your social media accounts -->
-
-[1]: https://www.instagram.com/mjaya10/
-[2]: https://github.com/jayamiko
-[3]: linkedin.com/in/jayamiko
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
