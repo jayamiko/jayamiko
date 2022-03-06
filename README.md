@@ -61,7 +61,7 @@ My name is Jaya Miko and I am a Frontend Developer/Programmer. I'm from Indonesi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Dewe-Tour-Redux-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/jayamiko/Web-Music-Musiklopedia-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Web-Music-Musiklopedia-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Web-Music-Musiklopedia-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"  width="300px" />
 </a>
 </div>
 
