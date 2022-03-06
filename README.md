@@ -1,6 +1,6 @@
 <!-- INTRODUCTION -->
 
-# Hey, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://www.instagram.com/mjaya10/">
   <img align="left" alt="JayaMiko's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -16,11 +16,9 @@
 
 <a href="https://wa.me/6281234567890" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/logo-whatsapp-picture-download-9.png" width="22px" alt="JayaMiko's WhatsApp" /></a>
 
-<br />
-
 My name is Jaya Miko and I am a Frontend Developer/Programmer. I'm from Indonesia, living in Jakarta-Bekasi and currently studying at PT. Dumbways Indonesia Technology.
 
-<div><a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></div>
+<div><a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="75px" ></a></div>
 
 ## 🔧 Technologies & Tools
 
@@ -53,21 +51,21 @@ My name is Jaya Miko and I am a Frontend Developer/Programmer. I'm from Indonesi
 <!-- TODO-IST:END -->
 
 <a href="https://github.com/jayamiko/jayamiko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamiko&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayamiko&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" width="300px"/>
 </a>
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jayamiko&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
 
-<a href="https://github.com/jayamiko/jayamiko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayamiko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=058feb&bg_color=1d1f21" alt="Jaya Miko's GitHub Stats" />
-</a>
-
 <a href="https://github.com/jayamiko/Dewe-Tour-Redux-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Dewe-Tour-Redux-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Dewe-Tour-Redux-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300px"/>
 </a>
 
 <a href="https://github.com/jayamiko/Web-Music-Musiklopedia-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Web-Music-Musiklopedia-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jayamiko&repo=Web-Music-Musiklopedia-&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="300px" />
+</a>
+
+<a href="https://github.com/jayamiko/jayamiko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayamiko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=058feb&bg_color=1d1f21" alt="Jaya Miko's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
