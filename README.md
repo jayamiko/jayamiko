@@ -6,17 +6,13 @@
   <img align="left" alt="JayaMiko's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://twitter.com/Jayamiko_4">
-<img align="left" alt="Jaya Miko| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://linkedin.com/in/jayamiko">
+<img align="left" alt="Jaya Miko's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="linkedin.com/in/jayamiko">
-<img align="left" alt="Jaya Miko's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://wa.me/6285591633631" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/logo-whatsapp-picture-download-9.png" width="22px" alt="JayaMiko's WhatsApp" /></a>
 
-<a href="https://wa.me/6281234567890" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/logo-whatsapp-picture-download-9.png" width="22px" alt="JayaMiko's WhatsApp" /></a>
-
-My name is Jaya Miko and I am a Frontend Developer/Programmer. I'm from Indonesia, living in Jakarta-Bekasi and currently studying at PT. Dumbways Indonesia Technology.
+I am a programmer, focused on developing web-based or mobile applications. Act as front-end and back-end. Let's start a journey of programming magic together!
 
 <div><a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120px" ></a></div>
 
